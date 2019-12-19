@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AudioClient</string>
+    <string name="perm_desc">AudioPerm</string>
+    <string name="perm_label">PermLabel</string>
+</resources>
